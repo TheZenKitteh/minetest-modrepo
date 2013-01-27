@@ -8,17 +8,23 @@ https://github.com/VanessaE/moretrees/archive/master.zip
 https://github.com/VanessaE/pipeworks/zipball/master
 https://github.com/VanessaE/homedecor/zipball/master
 https://github.com/VanessaE/coloredwood/zipball/master
+http://digitalaudioconcepts.com/vanessa/hobbies/minetest/gloopores_1.1.zip
 
 https://github.com/kaeza/minetest-firearms/archive/master.zip
 
 https://github.com/PilzAdam/boats/archive/master.zip
 https://github.com/PilzAdam/carts/zipball/master
 https://github.com/PilzAdam/farming/zipball/master
-https://github.com/PilzAdam/farming_plus/zipball/master
-
-https://github.com/tony-ka/tonyka-minetest-mods/zipball/master
+https://github.com/PilzAdam/bones/archive/master.zip
+https://github.com/PilzAdam/beds/zipball/master
 
 https://github.com/rubenwardy/waterplus/zipball/master
+https://github.com/rubenwardy/food/zipball/master
+
+https://github.com/Zeg9/minetest-skins/archive/master.zip
+https://github.com/Zeg9/minetest-ufos/archive/master.zip
+
+https://github.com/tony-ka/tonyka-minetest-mods/zipball/master
 
 https://github.com/RealBadAngel/technic/archive/master.zip
 
@@ -29,4 +35,10 @@ https://github.com/bas080/vines/zipball/master
 https://github.com/GloopMaster/glooptest/archive/master.zip
 
 https://github.com/wowiamdiamonds/gems/zipball/master
+
+https://github.com/lkjoel/minetest-nether/archive/master.zip
+
+https://github.com/cornernote/minetest-craft_guide/archive/master.zip
+
+https://github.com/Splizard/minetest-mod-snow/archive/master.zip
 
