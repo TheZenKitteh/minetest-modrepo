@@ -8,7 +8,6 @@ https://github.com/VanessaE/moretrees/archive/master.zip
 https://github.com/VanessaE/pipeworks/zipball/master
 https://github.com/VanessaE/homedecor/zipball/master
 https://github.com/VanessaE/coloredwood/zipball/master
-http://digitalaudioconcepts.com/vanessa/hobbies/minetest/gloopores_1.1.zip
 
 https://github.com/kaeza/minetest-firearms/archive/master.zip
 
